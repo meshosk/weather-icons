@@ -1,1 +1,31 @@
-/.DS_Store
+# macOS
+.DS_Store
+
+*.afdesign~lock~
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs
+*.log
+*.out
+*.pid
+*.gz
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# VSCode
+.vscode/
